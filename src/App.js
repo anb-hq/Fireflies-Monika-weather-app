@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src = "lighting.jpg" alt = "lighting" />
+        <img src = "https://www.cdc.gov/nceh/features/lightning-safety/lightning-safety_456px.jpg?_=99662" className = "thunder" alt = "thunder" />
         <p>
           <code>Create-weather-app.</code>
         </p>
